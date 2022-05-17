@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# It is reapeating 10 times
 for i in {1..10}
 do printf "Best School\n"
 done
