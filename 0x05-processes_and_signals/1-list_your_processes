@@ -7,4 +7,4 @@
 #Display in a user-oriented format
 #Show process hierarchy
 
-pgrep -auxf | grep "bash"
+ps -auf
